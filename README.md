@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 
-👯 I’m currently studying computer science at Vannes, Institute of Technology, France<br>
+👯 CS Student at Vannes, Institute of Technology, France<br>
 
 
 ## 🌐 Socials:
